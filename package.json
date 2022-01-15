@@ -16,10 +16,5 @@
     "url": "https://github.com/shashdan/WeatherFarm/issues"
   },
   "homepage": "https://github.com/shashdan/WeatherFarm#readme",
-  "dependencies": {
-    "ejs": "^3.1.6",
-    "express": "^4.17.2",
-    "nodemon": "^2.0.15",
-    "xhr2": "^0.2.1"
-  }
+  
 }
